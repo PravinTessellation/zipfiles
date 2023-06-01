@@ -1,0 +1,89 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Addition",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Addition",
+        "printedName": "Addition",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Addition",
+                "printedName": "Addition.Addition",
+                "usr": "s:8AdditionAAC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:8AdditionAACABycfc",
+            "mangledName": "$s8AdditionAACABycfc",
+            "moduleName": "Addition",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "sumOfTwoNumbers",
+            "printedName": "sumOfTwoNumbers(num1:num2:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8AdditionAAC15sumOfTwoNumbers4num14num2S2d_SdtF",
+            "mangledName": "$s8AdditionAAC15sumOfTwoNumbers4num14num2S2d_SdtF",
+            "moduleName": "Addition",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:8AdditionAAC",
+        "mangledName": "$s8AdditionAAC",
+        "moduleName": "Addition",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

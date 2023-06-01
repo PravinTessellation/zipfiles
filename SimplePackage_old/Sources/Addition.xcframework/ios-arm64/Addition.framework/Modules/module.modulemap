@@ -1,0 +1,11 @@
+framework module Addition {
+  umbrella header "Addition.h"
+
+  export *
+  module * { export * }
+}
+
+module Addition.Swift {
+  header "Addition-Swift.h"
+  requires objc
+}

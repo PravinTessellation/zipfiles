@@ -1,0 +1,11 @@
+framework module SimpleMath {
+  umbrella header "SimpleMath.h"
+
+  export *
+  module * { export * }
+}
+
+module SimpleMath.Swift {
+  header "SimpleMath-Swift.h"
+  requires objc
+}

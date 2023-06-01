@@ -1,0 +1,152 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "TypeDecl",
+        "name": "SimpleAlgorithms",
+        "printedName": "SimpleAlgorithms",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SimpleAlgorithms",
+                "printedName": "SimpleMath.SimpleAlgorithms",
+                "usr": "s:10SimpleMath0A10AlgorithmsC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:10SimpleMath0A10AlgorithmsCACycfc",
+            "mangledName": "$s10SimpleMath0A10AlgorithmsCACycfc",
+            "moduleName": "SimpleMath",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "fibonacci",
+            "printedName": "fibonacci(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10SimpleMath0A10AlgorithmsC9fibonacciyS2iF",
+            "mangledName": "$s10SimpleMath0A10AlgorithmsC9fibonacciyS2iF",
+            "moduleName": "SimpleMath",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "factorial",
+            "printedName": "factorial(n:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10SimpleMath0A10AlgorithmsC9factorial1nS2i_tF",
+            "mangledName": "$s10SimpleMath0A10AlgorithmsC9factorial1nS2i_tF",
+            "moduleName": "SimpleMath",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:10SimpleMath0A10AlgorithmsC",
+        "mangledName": "$s10SimpleMath0A10AlgorithmsC",
+        "moduleName": "SimpleMath",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/pkulkarni\/Desktop\/Research\/PK_Package_Managers \/SimpleMath\/SimpleMath\/Sources\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 528,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/pkulkarni\/Desktop\/Research\/PK_Package_Managers \/SimpleMath\/SimpleMath\/Sources\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 546,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/pkulkarni\/Desktop\/Research\/PK_Package_Managers \/SimpleMath\/SimpleMath\/Sources\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 566,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/pkulkarni\/Desktop\/Research\/PK_Package_Managers \/SimpleMath\/SimpleMath\/Sources\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 596,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/pkulkarni\/Desktop\/Research\/PK_Package_Managers \/SimpleMath\/SimpleMath\/Sources\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 748,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/pkulkarni\/Desktop\/Research\/PK_Package_Managers \/SimpleMath\/SimpleMath\/Sources\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 765,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pkulkarni\/Desktop\/Research\/PK_Package_Managers \/SimpleMath\/SimpleMath\/Sources\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 782,
+      "length": 1,
+      "value": "1"
+    }
+  ]
+}
